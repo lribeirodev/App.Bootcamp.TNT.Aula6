@@ -1,0 +1,15 @@
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\Escola.exe
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\Escola.deps.json
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\Escola.runtimeconfig.json
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\Escola.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\ref\Escola.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\bin\Debug\net6.0\Escola.pdb
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.csproj.AssemblyReference.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.AssemblyInfoInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.AssemblyInfo.cs
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.csproj.CoreCompileInputs.cache
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\ref\Escola.dll
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.pdb
+C:\Users\lucas.ribeiro\Desktop\TNT\Aula\LabAula6\Escola\obj\Debug\net6.0\Escola.genruntimeconfig.cache
