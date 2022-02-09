@@ -16,8 +16,8 @@ class Program
 {
     public static void Main(string[] args)
     {
-        EscolaSimples.Run();
-        //EscolaAvancada.Run();
+        //EscolaSimples.Run();
+        EscolaAvancada.Run();
     }
 }
 
@@ -98,10 +98,11 @@ class EscolaAvancada
     {
 
         String[] dados = {
-                "Nome:Lucas Ribeiro;Notas:{5.5,7.5,8.5,9.5};Faltas:{10,7,8,10}",
+                "Nome:Lucas Ribeiro;Notas:{5,7,8,9};Faltas:{10,7,8,10}",
                 "Nome:Laura;Notas:{10,7,5,2,10};Faltas:{5,15,10,7,10}",
                 "Nome:Gabriella;Notas:{10,7,8,7,10};Faltas:{0,15,10,7,10}",
                 "Nome:Heitor;Notas:{8,7,5,2,10};Faltas:{5,15,10,7,10}",
+                "Nome:Fulano;Notas:{4,3,2,4,9};Faltas:{5,10,5,7,8}"
                 };
 
         Aluno[] alunos = criarObjetosAluno(dados);
@@ -188,9 +189,9 @@ class EscolaAvancada
         double somaDasNotas = 0;
         foreach (double item in notas)
         {
-            somaDasNotas += Math.Abs(item);
+            somaDasNotas += item;
         }
-        return (somaDasNotas / notas.Length) > 10 ? Math.Floor((somaDasNotas / notas.Length)) : (somaDasNotas / notas.Length);
+        return (somaDasNotas / notas.Length);
     }
 
     private static int calcularFaltas(int[] faltas)
